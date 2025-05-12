@@ -66,6 +66,9 @@ This task uses the following Python library:
 - `pandas`: For data manipulation and preprocessing.
 
 To install `pandas`:
-```pip install pandas```
+
+```
+pip install pandas
+```
 
 
