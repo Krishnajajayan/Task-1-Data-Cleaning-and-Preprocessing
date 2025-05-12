@@ -104,5 +104,7 @@ df.dtypes
 
 df.head(30)
 
+"""Converting the preprocessed data to a new csv file."""
+
 df.to_csv('marketing_campaign_preprocessed.csv', index=False)
 
