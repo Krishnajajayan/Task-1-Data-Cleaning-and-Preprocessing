@@ -53,3 +53,19 @@ df = pd.read_csv('marketing_campaign_preprocessed.csv')
 # Display the first few rows
 df.head()
 ```
+## **File Structure**
+
+- `marketing_campaign.csv`: Raw dataset before cleaning.
+
+- `marketing_campaign_preprocessed.csv`: Cleaned and preprocessed dataset.
+
+## **Dependencies**
+
+This task uses the following Python library:
+
+- `pandas`: For data manipulation and preprocessing.
+
+To install `pandas`:
+```pip install pandas```
+
+
